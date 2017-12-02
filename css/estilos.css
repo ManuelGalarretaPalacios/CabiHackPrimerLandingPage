@@ -1,0 +1,16 @@
+img{
+    max-width:100%;
+}
+
+header nav a {
+    color: #EA18FF;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+@media screen and (max-width: 991px){
+        header nav a{
+            display: block;
+        }
+}
